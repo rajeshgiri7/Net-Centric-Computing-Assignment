@@ -1,0 +1,25 @@
+D:\Bsc\6th Sem\Net Centric Computing\Assignment1\BillSplitvalue\bin\Debug\netcoreapp3.1\BillSplitvalue.exe
+D:\Bsc\6th Sem\Net Centric Computing\Assignment1\BillSplitvalue\bin\Debug\netcoreapp3.1\BillSplitvalue.deps.json
+D:\Bsc\6th Sem\Net Centric Computing\Assignment1\BillSplitvalue\bin\Debug\netcoreapp3.1\BillSplitvalue.runtimeconfig.json
+D:\Bsc\6th Sem\Net Centric Computing\Assignment1\BillSplitvalue\bin\Debug\netcoreapp3.1\BillSplitvalue.runtimeconfig.dev.json
+D:\Bsc\6th Sem\Net Centric Computing\Assignment1\BillSplitvalue\bin\Debug\netcoreapp3.1\BillSplitvalue.dll
+D:\Bsc\6th Sem\Net Centric Computing\Assignment1\BillSplitvalue\bin\Debug\netcoreapp3.1\BillSplitvalue.pdb
+D:\Bsc\6th Sem\Net Centric Computing\Assignment1\BillSplitvalue\obj\Debug\netcoreapp3.1\BillSplitvalue.AssemblyInfoInputs.cache
+D:\Bsc\6th Sem\Net Centric Computing\Assignment1\BillSplitvalue\obj\Debug\netcoreapp3.1\BillSplitvalue.AssemblyInfo.cs
+D:\Bsc\6th Sem\Net Centric Computing\Assignment1\BillSplitvalue\obj\Debug\netcoreapp3.1\BillSplitvalue.csproj.CoreCompileInputs.cache
+D:\Bsc\6th Sem\Net Centric Computing\Assignment1\BillSplitvalue\obj\Debug\netcoreapp3.1\BillSplitvalue.dll
+D:\Bsc\6th Sem\Net Centric Computing\Assignment1\BillSplitvalue\obj\Debug\netcoreapp3.1\BillSplitvalue.pdb
+D:\Bsc\6th Sem\Net Centric Computing\Assignment1\BillSplitvalue\obj\Debug\netcoreapp3.1\BillSplitvalue.genruntimeconfig.cache
+D:\Programs\Net-Centric-Computing-Assignment-master\Assignment1\BillSplitvalue\bin\Debug\netcoreapp3.1\BillSplitvalue.exe
+D:\Programs\Net-Centric-Computing-Assignment-master\Assignment1\BillSplitvalue\bin\Debug\netcoreapp3.1\BillSplitvalue.deps.json
+D:\Programs\Net-Centric-Computing-Assignment-master\Assignment1\BillSplitvalue\bin\Debug\netcoreapp3.1\BillSplitvalue.runtimeconfig.json
+D:\Programs\Net-Centric-Computing-Assignment-master\Assignment1\BillSplitvalue\bin\Debug\netcoreapp3.1\BillSplitvalue.runtimeconfig.dev.json
+D:\Programs\Net-Centric-Computing-Assignment-master\Assignment1\BillSplitvalue\bin\Debug\netcoreapp3.1\BillSplitvalue.dll
+D:\Programs\Net-Centric-Computing-Assignment-master\Assignment1\BillSplitvalue\bin\Debug\netcoreapp3.1\BillSplitvalue.pdb
+D:\Programs\Net-Centric-Computing-Assignment-master\Assignment1\BillSplitvalue\obj\Debug\netcoreapp3.1\BillSplitvalue.csprojAssemblyReference.cache
+D:\Programs\Net-Centric-Computing-Assignment-master\Assignment1\BillSplitvalue\obj\Debug\netcoreapp3.1\BillSplitvalue.AssemblyInfoInputs.cache
+D:\Programs\Net-Centric-Computing-Assignment-master\Assignment1\BillSplitvalue\obj\Debug\netcoreapp3.1\BillSplitvalue.AssemblyInfo.cs
+D:\Programs\Net-Centric-Computing-Assignment-master\Assignment1\BillSplitvalue\obj\Debug\netcoreapp3.1\BillSplitvalue.csproj.CoreCompileInputs.cache
+D:\Programs\Net-Centric-Computing-Assignment-master\Assignment1\BillSplitvalue\obj\Debug\netcoreapp3.1\BillSplitvalue.dll
+D:\Programs\Net-Centric-Computing-Assignment-master\Assignment1\BillSplitvalue\obj\Debug\netcoreapp3.1\BillSplitvalue.pdb
+D:\Programs\Net-Centric-Computing-Assignment-master\Assignment1\BillSplitvalue\obj\Debug\netcoreapp3.1\BillSplitvalue.genruntimeconfig.cache
